@@ -6,9 +6,6 @@ A brief description of what this project does.
 This is my first project with React and Node 🤞
 
 
-
-
-
 ## Documentation
 
 I have to create a React App that will serve: 
@@ -29,15 +26,10 @@ What I struglle with:
 
 So I decided the following structure of my project with single package.json file.
 
+<img width="317" alt="Screenshot 2023-03-21 at 3 12 01 PM" src="https://user-images.githubusercontent.com/14010937/226568668-6fbae453-7046-442c-b3df-80bb96c2de74.png">
 
 
-With hope that this will help in future as well.
-
-
-
-
-
-
+With hope that this will help me in future as well.
 
 
 ## Installation
